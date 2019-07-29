@@ -1,19 +1,13 @@
-
-div{
+.col-1{
+	padding-top: 10%;
 	border: solid;
 	border-width: 0.1em;
-	border-color: #ffffff;
-}
-p{
-	width: 40px;
-	height: 40px;
-}
-.container{
-	
+	border-color: rgb(170, 170, 170); 
+	border-collapse: collapse;
 }
 
 .blackSquare{
-	background-color:black;
+	background-color:#000000;
 }
 .orangeSquare{
 	background-color:#ee8012;
